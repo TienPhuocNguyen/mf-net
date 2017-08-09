@@ -32,7 +32,7 @@ First, we have to compile the shared libraries:
  $cd mf-net/utils
  $make
  ~~~
-If errors occur, you should check the computing architecture of your GPU. Here, we use `sm_61` for the Titan X Pascal.
+If errors occur, you should check the computing architecture of your GPU and modify the `Makefile`. Here, we use `sm_61` for the Titan X Pascal.
 If success, the command will produce a file `libcutils.so`.
 
 To display results on your screen, install the `display` package:
