@@ -1,12 +1,10 @@
-# Motion Feature Network
-This repository provides demo code for "Change Detection by Training a Triplet Network for Motion Feature Extraction"
+# "Change Detection by Training a Triplet Network for Motion Feature Extraction"
 ============================================================================================
 <img src="sample.png" style="width: 25%;"/>
 
-We provide demo code for:
+This repository provides demo code for:
 - Training a triplet model to learn motion feature.
 - Computing segmentation masks for any image sequence with an extracted MF-Net.
-
 
 ## Repository Structure
 
@@ -35,7 +33,8 @@ First, we have to compile the shared libraries:
  $make
  ~~~
 If errors occur, you should check the computing architecture of your GPU. Here, we use `sm_61` for the Titan X Pascal.
-If success, the command will produce a file `libcutils.so`
+If success, the command will produce a file `libcutils.so`.
+
 To display results on your screen, install the `display` package:
  ~~~
  $luarocks install display
