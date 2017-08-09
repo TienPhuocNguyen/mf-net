@@ -1,5 +1,5 @@
-# "Change Detection by Training a Triplet Network for Motion Feature Extraction"
-============================================================================================
+# Change Detection by Training a Triplet Network for Motion Feature Extraction
+
 <img src="sample.png" style="width: 25%;"/>
 
 This repository provides demo code for:
