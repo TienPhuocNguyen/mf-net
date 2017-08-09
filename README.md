@@ -44,6 +44,7 @@ Launch the server:
  $th -ldisplay.start 8000 0.0.0.0
  ~~~
 Then open `0.0.0.0:8000` on your browser to open the remote desktop.
+
 To execute the program, run the command:
  ~~~
  $th run.lua
