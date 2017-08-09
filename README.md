@@ -9,9 +9,9 @@ This repository provides demo code for:
 ## Repository Structure
 
 The repository is structured as follows:
-- 'models' contains the Triplet model to train our network
-- 'net' contains our trained model
-- 'utils' contain lua and CUDA code for our Change Detection algorithm. This needs to be compiled before execution.
+- `models` contains the Triplet model to train our network
+- `net` contains our trained model
+- `utils` contain lua and CUDA code for our Change Detection algorithm. This needs to be compiled before execution.
 
 ### Dependencies
 
