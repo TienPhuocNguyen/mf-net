@@ -1,6 +1,6 @@
 # ...
 
-<img src="sample.png" style="width: 25%;"/>
+
 
 This repository provides demo code for:
 - Training a triplet model to learn motion feature.
