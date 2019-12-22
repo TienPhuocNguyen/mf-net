@@ -54,8 +54,6 @@ The file `run.lua` also provides some arguments to specify the directories of im
  $th run.lua -n net/trained.t7 -s datasets/CDNet2014/dataset/dynamicBackground/fall/input
  ~~~
 
-## TODO
-We will release the training code for this paper soon.
 
 
 
